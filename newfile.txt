@@ -25,3 +25,7 @@ git pull main
 git revert  head
 
 git revert commiot id
+
+
+
+git kuch bi
