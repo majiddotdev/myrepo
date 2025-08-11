@@ -1,0 +1,27 @@
+git init
+git global -u username
+//    passs
+
+git clone https://github.com/majiddotdev/myrepo.git
+
+git branch   main
+
+git checkout -b majid
+
+
+
+git status 
+
+git add file1 , file 2    
+
+git commit 0m "add new files"
+
+git  push majid
+
+
+git pull main
+
+
+git revert  head
+
+git revert commiot id
